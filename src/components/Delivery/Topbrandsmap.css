@@ -1,0 +1,18 @@
+.brands{
+    height: 150px;
+    width: 150px;
+    box-shadow: rgb(0 0 0 / 8%)0px 3px 12px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+.top-brands-img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.top-title{
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}

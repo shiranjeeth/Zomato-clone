@@ -1,0 +1,75 @@
+.explore-map-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; 
+    overflow: hidden;
+    
+}
+.explore-card{
+    margin: 100px 0px 54px 0px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid transparent;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.explore-map-img{
+    height: 250px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.explore-deliverytime{
+    position: absolute;
+    right: 30px;
+    bottom: 40px;
+    opacity: 0.8;
+    background-color: aliceblue;
+    font-size: 15px;
+    border-radius: 6px;
+   
+}
+.explore-proextra{
+    position: absolute;
+    bottom:70px ;
+    color: white;
+    background-color: #d92662;
+    border-radius: 4px;
+}
+.explore-offers{
+    background-color: #256fef;
+    border-radius: 4px;
+    color: white;
+    position: absolute;
+    bottom: 40px;
+}
+.explore-title{
+    font-size: 20px;
+    position: absolute;
+    bottom: -50px;
+   
+}
+.explore-shopname{
+position: absolute;
+bottom: -20px;
+background-color: rgb(207,207,207);
+font-size: 15px;
+   
+}
+.explore-comment{
+position: absolute;
+bottom: -50px;
+background-color: rgb(207,207,207);
+font-size: 10px;
+}
+.explore-rating{
+    position: absolute;
+    right: 30px;
+    bottom: -15px;
+    background-color: #267e3e;
+    color: white;
+    border-radius: 1px;
+    
+}

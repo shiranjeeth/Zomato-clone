@@ -1,0 +1,41 @@
+
+.delivery-mapc{
+ height: 290px;
+ width: 260px;
+ border-radius: 8px;
+ box-shadow: rgb(0 0 0 / 8%)0px 3px 12px;
+ background-color: aliceblue;
+ position: relative;
+
+
+}
+.delivery-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.delivery-rating{
+    font-size: 15px;
+    right: 15px;
+    position: absolute;
+    bottom: -25px;
+    background-color: #267e3e;
+    color: white;
+    border-radius: 3px; 
+}
+.delivery-title{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.delivery-adress{
+    background-color: silver;
+    font-size: 12px;
+}
+.delivery-price{
+    font-size: 12px;
+   background-color: silver;
+   
+   
+}

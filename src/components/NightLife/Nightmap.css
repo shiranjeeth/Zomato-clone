@@ -1,0 +1,26 @@
+.night-con{
+height: 290px;
+width: 260px;
+box-shadow: rgb(0 0 0 / 8%)0px 3px 12px;
+border-radius: 8px;
+background-color: aliceblue;
+position: relative;
+margin-bottom: 50px;
+}
+.night-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.night-title{
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+}
+.night-place{
+    position: absolute;
+    bottom: 5px;
+    font-size: 12px;
+    left: 10px;
+}
